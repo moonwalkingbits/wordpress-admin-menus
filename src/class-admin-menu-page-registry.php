@@ -11,7 +11,7 @@
 namespace Moonwalking_Bits\Admin_Menus;
 
 /**
- * A admin menu page registry class.
+ * An admin menu page registry class.
  *
  * @since 0.1.0
  */
