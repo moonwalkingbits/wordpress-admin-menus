@@ -97,6 +97,8 @@ abstract class Abstract_Admin_Menu_Page {
 
 	/**
 	 * This method is invoked when the page is being rendered.
+	 *
+	 * @return string A string representation of the rendered admin menu page.
 	 */
 	abstract public function render(): string;
 
